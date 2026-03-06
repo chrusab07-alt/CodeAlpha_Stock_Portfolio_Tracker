@@ -1,4 +1,5 @@
 # CodeAlpha_Stock_Portfolio_Tracker
+Stock Portfolio Tracker
 
 This is a Python project developed for the CodeAlpha Internship.
 
