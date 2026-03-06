@@ -14,3 +14,4 @@ Technologies Used:
 - File Handling
 - Dictionaries
 - Loops
+![Project Screenshot](Code_screenshot.png) [cite: 2026-02-20]
